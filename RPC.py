@@ -1,6 +1,6 @@
 def checkInput(selection):
   if selection not in ["rock", "paper", "scissors"]:
-    print "Player made invalidselection.Exiting"
+    print "Player Made Invalid Selection.Exiting"
     exit()
 
 keepPlaying = "yes"
